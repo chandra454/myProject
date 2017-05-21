@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="SonicWall.Test.HomepageTest1">
+        <methods>
+          <include name="HomePage_MAIN_SearchButton_Checking"/>
+          <include name="HomePage_Tags_Checking"/>
+        </methods>
+      </class> <!-- SonicWall.Test.HomepageTest1 -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
